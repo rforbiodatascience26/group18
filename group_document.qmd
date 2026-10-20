@@ -19,3 +19,5 @@ Hello
 ```{r}
 2+2
 ```
+
+## New feature
