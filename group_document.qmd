@@ -24,4 +24,11 @@ Hello
 2+2
 ```
 
-## 
+
+## New feature
+
+My feaure
+
+```{r}
+print("feature")
+```
