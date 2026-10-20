@@ -6,4 +6,10 @@ editor: visual
 
 ## s245934
 
+bla bla bla
+
+```{r}
+print("hello world")
+```
+
 ## s244321
